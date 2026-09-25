@@ -1,21 +1,8 @@
-# CodeAlpha Task 1: Image Gallery
+# CodeAlpha Projects
 
-A responsive image gallery built with HTML, CSS, and vanilla JavaScript.
+This repository contains two small web projects built with HTML, CSS, and vanilla JavaScript.
 
-## Features
+## Tasks
 
-- Filter images by category: nature, city, and people
-- Open images in a lightbox and navigate between visible images
-- Use the on-screen controls or the left/right arrow and Escape keys
-- Adapt the gallery layout to different screen sizes
-
-## Run
-
-Open `index1.html` in a web browser. The image files are stored alongside the page and load locally.
-
-## Project files
-
-- `index1.html` - gallery markup
-- `style1.css` - layout and visual styles
-- `script1.js` - filtering and lightbox interactions
-- Image files - gallery photographs
+- [Task 1: Image Gallery](Task1/README.md) - category filters and a navigable lightbox
+- [Task 2: Calculator](Task2/README.md) - arithmetic operations with keyboard support
